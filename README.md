@@ -8,3 +8,9 @@
 - I hope to attend Imperial College to study Electrical and Electronic Engineering MEng
 - Afterwards, I will work in industry. Not sure exactly what yet but some companies I am interested in are Arm and Rolls Royce.
 
+Here is a link to a recent project where I made an alternative version of Monopoly: https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-sophiapatterson
+
+Here is a link to some java work: https://github.com/BHASVIC-CompSci/SophiaPattersonJava
+
+Here is a link to some C work: https://github.com/BHASVIC-CompSci/Hotel-Kashyyyk-
+
